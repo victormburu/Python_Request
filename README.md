@@ -1,7 +1,3 @@
-Absolutely! Here's your cleaned-up `README.md` without the triple backticks (\`\`\`\`markdown\`\`\`) at the beginning and end, so it's ready to paste directly into your GitHub repo:
-
----
-
 ## 📄 `README.md` — Python `requests` Module Basics
 
 # 🐍 Python Requests Module Practice
