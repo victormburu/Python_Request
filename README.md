@@ -1,11 +1,9 @@
-# Python_Request
-Excellent progress, Victor! You've successfully learned the **basics of Python's `requests` library**, including authentication, GET/POST requests, JSON handling, file writing, headers, and debugging. Based on your notes, here's a professional-style **README.md** that you can add to your GitHub to showcase your learning.
+Absolutely! Here's your cleaned-up `README.md` without the triple backticks (\`\`\`\`markdown\`\`\`) at the beginning and end, so it's ready to paste directly into your GitHub repo:
 
 ---
 
 ## 📄 `README.md` — Python `requests` Module Basics
 
-````markdown
 # 🐍 Python Requests Module Practice
 
 This repository documents my practical learning journey using the `requests` library in Python. It covers key HTTP methods, authentication, parameters, JSON parsing, file writing, and understanding response objects.
@@ -15,12 +13,13 @@ This repository documents my practical learning journey using the `requests` lib
 ## 🚀 What I Learned
 
 ### ✅ Basic GET Request
+
 ```python
 import requests
 
 response = requests.get('https://httpbin.org/get')
 print(response.status_code)  # 200
-````
+```
 
 ---
 
@@ -114,18 +113,5 @@ These are essential skills for working with APIs, automation, and data retrieval
 * Automate data collection to a database
 * Connect APIs to BI dashboards
 
----
 
-> Written by Victor Mburu – Future-ready in APIs, automation, and data systems 🚀
-
-```
-
----
-
-Let me know if you want:
-- The actual script files for uploading
-- A GitHub repo structure suggestion
-- Help pushing to your GitHub account
-
-You're doing very well, Victor — keep going strong!:wq
-
+> Written by Victor Mburu – Future-ready in APIs, automation, and data systems 
